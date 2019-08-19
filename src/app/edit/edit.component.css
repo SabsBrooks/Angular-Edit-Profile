@@ -1,0 +1,12 @@
+body {
+    font-family: @import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+}
+
+form {
+    box-shadow: rgba(204, 204, 204, 1);
+}
+
+button {
+    background-color: #505355;
+    color: white;
+}
